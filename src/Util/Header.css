@@ -1,0 +1,32 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .header-ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-li {
+    margin: 0 10px;
+  }
+  .header-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+
+  .active{
+    text-decoration: underline;
+    color: white !important;
+    width: 3px;
+  }
+  /* .header-link {
+    text-decoration:none;
+    color: white !important;
+} */
+.header-gap{
+    padding: 24px;
+}

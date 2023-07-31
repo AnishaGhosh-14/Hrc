@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 5rem;
+}
+
+.modal-wrapper {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: rgba(189, 189, 189, 0.9);
+}
+.modal-container {
+  position: fixed;
+  max-width: 30rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #fc7500;
+}
+h2 {
+  font-size: 2.4rem;
+  font-family: "Work Sans", sans-serif;
+  margin-bottom: 20px;
+}
+
+.model-button {
+  padding: 0.6rem, 1.4rem;
+  font-size: 1.4rem;
+  border: none;
+  border-radius: 0.3rem;
+  background-color: #212121;
+  color: #fff;
+  cursor: pointer;
+  font-family: "Work Sans" sans-serif;
+  transform: scale(0.9);
+  size: 3rem;
+}
+.model-button:hover {
+  background-color: #fff;
+  color: #212121;
+  border: #212121;
+  transform: scale(1);
+  transition: all 0.1s;
+}
+
+.button {
+  position: absolute;
+  bottom: 1%;
+  cursor: pointer;
+  color: black;
+}
+.btn1 {
+  background-color: white !important;
+  margin-top: 20px !important;
+  border: 1px solid grey !important;
+  width: 45% !important;
+}
+.btn2 {
+  background-color: white !important;
+  margin-top: 20px !important;
+  border: 1px solid grey !important;
+  width: 45% !important;
+}
+
+.dc {
+  width: 98%;
+  margin-top: 20px !important;
+}
+h5 {
+  margin-bottom: 20px;
+}
+.margin {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,75 @@
+
+.button{
+    position: absolute;
+    bottom: 1%;
+    cursor: pointer;
+    color: white;
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    margin-left: 2PX;
+    border: 2px solid white !important;
+    color: white;
+    background-color: #fc7500 !important;
+}
+.css-1lymaxv-MuiDataGrid-root{
+    background: #a9a9a9;
+    color: white!important;
+}
+.css-1lymaxv-MuiDataGrid-root .MuiDataGrid-row {
+    border-bottom: 2px solid white;
+}
+.css-gl260s-MuiDataGrid-columnHeadersInner{
+    border-bottom: 2px solid white;
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    color: gray !important;
+}
+.css-wop1k0-MuiDataGrid-footerContainer {
+    min-height: 71px !important;
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    margin-left: 5px !important;
+}
+.button button:disabled {
+    background-color: gray !important;
+  }
+  .css-de9k3v-MuiDataGrid-selectedRowCount {
+    width: 100%;
+    margin: auto;
+  }
+  .css-de9k3v-MuiDataGrid-selectedRowCount {
+    margin-left: 45% !important;
+    background-color: #8fd163;
+    padding: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 30%;
+    color: rgb(57, 56, 56);
+  }
+  .css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar {
+    color: white;
+  }
+  .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+    color: white !important;
+  }
+  .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+    color: #fc7500 !important;
+}
+/* .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    color: gray !important;
+  }
+  .MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    color: #a9a9a9 !important;
+  } */
+  .delete{
+    color: white !important;
+  }
+  .refresh{
+    color: white !important;
+  }
+  .edit{
+    color: white !important;
+  }
+  .predict{
+    color: white !important;
+  }

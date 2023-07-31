@@ -1,0 +1,40 @@
+.box-1{
+    display: flex;
+    flex-direction: column;
+}
+.form{
+    background-color:#a9a9a9 ;
+    height: 263px;
+    padding: 20px;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+margin: 0.2px !important;
+}
+#outlined-basic3{
+ width: 473px;
+ 
+}
+#outlined-basic8{
+    width: 250px;
+    
+   }
+#outlined-basic4{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+   }
+   .css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    margin: 2px !important;
+    margin-top: 2px !important;
+   }
+   .add{
+    margin-top: 10px !important;
+    width: 36%;
+    color: white !important;
+   }
+   .cancel{
+    margin-top: 10px !important;
+    width: 59%;
+    background-color: #db4437 !important;
+    color: white !important;
+   }

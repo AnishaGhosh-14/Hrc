@@ -1,0 +1,17 @@
+.footer-container {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .privacy-policy {
+    font-weight:500;
+    margin-right: 10px;
+    color: rgb(26, 169, 240);
+  }
+  
+  .rights-reserved {
+    font-size: 12px;
+    color: #888;
+  }
+  
